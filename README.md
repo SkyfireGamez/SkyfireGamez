@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![SkyfireGamez's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyfireGamez)](https://github.com/anuraghazra/github-readme-stats)
+[![Skyfire's GitHub Status](https://github-readme-stats.vercel.app/api?username=SkyfireGamez)
